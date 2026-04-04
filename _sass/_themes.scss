@@ -6,7 +6,7 @@
 
 :root {
   color-scheme: light;
-  --global-bg-color: #ffc5e0; // #{v.$white-color};
+  --global-bg-color: #{v.$white-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
   --global-text-color: #{v.$black-color};
   --global-text-color-light: #{v.$grey-color};
@@ -18,7 +18,7 @@
   --global-footer-link-color: #{v.$white-color};
   --global-distill-app-color: #{v.$grey-color};
   --global-divider-color: #ffc5e0; // changed from rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{v.$white-color};
+  --global-card-bg-color: #ffc5e0; // changed from #{v.$white-color};
   --global-highlight-color: #{v.$red-color-dark};
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$black-color, "red", v.$space: rgb)},
@@ -80,15 +80,15 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{v.$code-bg-color-dark};
   --global-text-color: #{v.$grey-color-light};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{v.$cyan-color};
+  --global-theme-color: #ffc5e0; // changed from #{v.$cyan-color};
   --global-hover-color: #{v.$cyan-color};
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
   --global-footer-link-color: #{v.$black-color};
   --global-distill-app-color: #{v.$grey-color-light};
-  --global-divider-color: #424246;
-  --global-card-bg-color: #{v.$grey-900};
+  --global-divider-color: #ffc5e0; // changed from #424246;
+  --global-card-bg-color: #ffc5e0; // changed from #{v.$grey-900};
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$white-color, "red", v.$space: rgb)},
     #{color.channel(v.$white-color, "green", v.$space: rgb)},
