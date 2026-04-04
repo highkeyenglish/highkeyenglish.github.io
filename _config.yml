@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: high key english # the website title (if blank, full name will be used instead)
-first_name: high
-middle_name: key
-last_name: english
+title: High Key English # the website title (if blank, full name will be used instead)
+first_name: High
+middle_name: Key
+last_name: English
 contact_note: >
   Contact me at hazel@highkey.com. 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
