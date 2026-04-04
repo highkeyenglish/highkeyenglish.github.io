@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://highkeylearning.github.io/highkeylearning.github.io//sitemap.xml
+Sitemap: https://highkeylearning.github.io/highkeylearning//sitemap.xml

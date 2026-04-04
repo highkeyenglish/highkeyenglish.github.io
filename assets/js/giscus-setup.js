@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "highkeylearning/highkeylearning.github.io",
+    "data-repo": "highkeylearning/highkeylearning",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
