@@ -125,17 +125,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
       },{id: "post-a-post-with-giscus-comments",
         
           title: "a post with giscus comments",
