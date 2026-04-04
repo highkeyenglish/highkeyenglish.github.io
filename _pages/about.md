@@ -6,7 +6,7 @@ subtitle: About me :)
 
 profile:
   align: right
-  image: highkey-logo-white.jpg
+  image: highkey-logo-white.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p></p>
