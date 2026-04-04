@@ -85,11 +85,11 @@ ninja.data = [{
             window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+      },{id: "post-masculinity-in-macbeth",
         
-          title: "a post with table of contents on a sidebar",
+          title: "Masculinity in Macbeth",
         
-        description: "an example of a blog post with table of contents on a sidebar",
+        description: "",
         section: "Posts",
         handler: () => {
           
