@@ -125,17 +125,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
         
           title: "displaying beautiful tables with Bootstrap Tables",
