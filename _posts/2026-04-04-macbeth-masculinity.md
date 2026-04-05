@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Masculinity in 'Macbeth' | Teaching PowerPoint
+title: Masculinity in 'Macbeth' ~ Teaching Materials
 date: 2026-04-04 
 description: 
 tags: macbeth gcse english themes
@@ -11,16 +11,16 @@ toc:
     sidebar: left
 ---
 
-## Masculinity
-This is one of my faaaaavourite themes in <i>Macbeth</i> because it encourages students to begin to make more nuanced arguments around gender norms. 'Masculinity' is such a pliable and loaded term and yet it often comes to signify nothing at all. You are wrestling with Jacobean concepts of masculinity with the added layer of complexity being the twenty-first century hyperawareness of such terms being socially constructed and often meaningless. Especially with the gradual blurring of the gender binary, what does it even mean to be a man?
+## Initial thoughts
+This is one of my faaaaavourite themes in <i>Macbeth</i> because it encourages students to begin to make more nuanced arguments around gender norms. 'Masculinity' is such a pliable and loaded term and yet it often comes to signify nothing at all. You are wrestling with Jacobean concepts of masculinity with the added layer of complexity being the twenty-first century hyperawareness of such terms being socially constructed and often meaningless. Especially given the gradual blurring of the gender binary, what does it <i>actually</i> mean to be a man?
 
-The disparity between the biological and social expectations of men is becoming more apparent than ever in our day. In <i>Macbeth</i>, we encounter a diverse portfolio of characters, men and women, whom all represent varying degrees of masculinity. Of course, it is a largely harmful concept (known as toxic masculinity). Lady Macbeth weaponises her husband's insecurities around his masculinity in order to coax him into her schemes. This is placed in direct opposition with the masculinity of Macduff which, who must 'feel' the death of his family 'as a man', is coming into the level of emotional intelligence that a modern man might also possess (excluding like, Andrew Tate).  
+The disparity between the biological and social expectations of men is becoming more apparent than ever in our day. In <i>Macbeth</i>, we encounter a diverse portfolio of characters, men and women, whom all represent varying degrees of masculinity. Of course, it is a largely harmful concept (known as toxic masculinity). Lady Macbeth weaponises her husband's insecurities around his masculinity in order to coax him into her schemes. This is placed in direct opposition with the masculinity of Macduff which, who must 'feel' the death of his family 'as a man', is coming into the level of emotional intelligence that a modern man might also possess (excluding like, Andrew Tate, I guess). Banquo embodies the patrilineal masculinity - he is a selfless father, willing to sacrifice himself for the future of his bloodline, but also a loyal comrade, with a moral compass sharper than a needle's point. That's interesting given an innate feeling for morality is often pinned down as a 'feminine' trait. 
 
 
-## Masculinity in 'Macbeth' | Teaching PowerPoint
+## My slides! 
 See slides below. 
 
-This deck includes a close reading of an extract from Act 1 Scene 7, where Lady Macbeth employs a variety of tactics to 
+This deck includes a close reading of an extract from Act 1 Scene 7.
 
 
 
