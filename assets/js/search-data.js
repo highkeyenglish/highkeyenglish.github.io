@@ -30,9 +30,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-masculinity-in-39-macbeth-39-teaching-powerpoint",
+            },{id: "post-masculinity-in-39-macbeth-39-teaching-materials",
         
-          title: "Masculinity in &#39;Macbeth&#39; | Teaching PowerPoint",
+          title: "Masculinity in &#39;Macbeth&#39; ~ Teaching Materials",
         
         description: "",
         section: "Posts",
