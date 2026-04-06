@@ -8,6 +8,9 @@ category: work
 related_publications: false
 ---
 
-<i>Macbeth</i> is one of my favourite texts to teach - interpretations are endless and the characters are so rich and exciting, as is always the case with Shakespeare c: 
+# Links to teaching resources
 
-I have a teeny pool of resources thus far; please see below.
+<a href="https://highkeyenglish.github.io/blog/2026/macbeth-masculinity/>Masculinity in 'Macbeth' ~ Teaching Materials</a>
+
+
+
