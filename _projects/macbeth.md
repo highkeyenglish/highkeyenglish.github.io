@@ -2,7 +2,7 @@
 layout: page
 title: Macbeth
 description: 
-img: assets/img/12.jpg
+img: assets/img/macbeth-cover.png
 importance: 1
 category: work
 related_publications: false
