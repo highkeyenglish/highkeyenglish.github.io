@@ -8,9 +8,8 @@ category: tutors
 related_publications: false
 ---
 
-# Links to teaching resources
-
-<a href="https://highkeyenglish.github.io/blog/2026/macbeth-masculinity/">Masculinity in 'Macbeth' ~ Teaching Materials</a>
+## Teaching Resources
+<a href="https://highkeyenglish.github.io/blog/2026/macbeth-masculinity/">Masculinity in 'Macbeth'</a>
 
 
 
