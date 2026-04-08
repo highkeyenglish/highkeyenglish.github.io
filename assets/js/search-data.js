@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-tutors",
           title: "tutors",
-          description: "",
+          description: "All teaching materials",
           section: "Navigation",
           handler: () => {
             window.location.href = "/tutors/";
