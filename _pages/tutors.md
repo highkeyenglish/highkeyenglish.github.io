@@ -2,11 +2,11 @@
 layout: page
 title: tutors
 permalink: /tutors/
-description: 
+description: All teaching materials
 nav: true
 nav_order: 3
-display_categories: []
-horizontal: true
+display_categories: [tutors]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
