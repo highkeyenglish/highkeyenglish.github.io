@@ -4,7 +4,7 @@ title: Macbeth
 description: 
 img: assets/img/macbeth-cover.png
 importance: 1
-category: work
+category: tutors
 related_publications: false
 ---
 
