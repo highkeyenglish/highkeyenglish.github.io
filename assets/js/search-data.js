@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-materials",
-          title: "materials",
-          description: "All teaching materials",
+        },{id: "nav-tutors",
+          title: "tutors",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/materials/";
+            window.location.href = "/tutors/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
