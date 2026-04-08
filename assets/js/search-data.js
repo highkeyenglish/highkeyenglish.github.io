@@ -23,14 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutors/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "post-masculinity-in-39-macbeth-39-teaching-materials",
+        },{id: "post-masculinity-in-39-macbeth-39-teaching-materials",
         
           title: "Masculinity in &#39;Macbeth&#39; ~ Teaching Materials",
         
