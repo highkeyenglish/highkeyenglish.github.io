@@ -3,8 +3,8 @@ layout: post
 title: Masculinity in 'Macbeth' ~ Teaching Materials
 date: 2026-04-04 
 description: 
-tags: macbeth gcse english themes
-categories: tutors
+tags: gcse english themes
+categories: macbeth
 giscus_comments: false
 related_posts: false
 toc: 
