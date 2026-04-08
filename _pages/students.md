@@ -5,7 +5,7 @@ permalink: /students/
 description: 
 nav: true
 nav_order: 3
-display_categories: []
+display_categories: [students]
 horizontal: true
 ---
 
