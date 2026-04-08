@@ -2,7 +2,7 @@
 layout: page
 title: tutors
 permalink: /tutors/
-description: All teaching materials
+description: 
 nav: true
 nav_order: 3
 display_categories: [tutors]
@@ -63,3 +63,9 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+<style>
+.category {
+  display: none;
+}
+</style>
