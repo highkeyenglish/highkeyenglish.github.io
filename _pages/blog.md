@@ -11,8 +11,6 @@ pagination:
   per_page: 5
   sort_field: date
   sort_reverse: true
-  display_tags: false
-  display_categories: false
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
@@ -20,7 +18,7 @@ pagination:
 
 <div class="post">
 
-{% assign blog_name_size = site.blog_name | size | capitalize %}
+{% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
@@ -33,7 +31,6 @@ pagination:
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
-{% comment %}
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -58,7 +55,6 @@ pagination:
     </ul>
   </div>
   {% endif %}
-  {% endcomment %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
