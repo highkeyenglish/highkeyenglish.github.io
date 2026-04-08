@@ -33,6 +33,7 @@ pagination:
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
+{% comment %}
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -57,6 +58,7 @@ pagination:
     </ul>
   </div>
   {% endif %}
+  {% endcomment %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
