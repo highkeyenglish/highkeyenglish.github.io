@@ -1,12 +1,12 @@
 ---
 layout: page
-title: materials
-permalink: /materials/
-description: All teaching materials
+title: tutors
+permalink: /tutors/
+description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: []
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
