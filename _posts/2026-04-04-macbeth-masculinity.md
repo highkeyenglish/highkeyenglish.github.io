@@ -37,11 +37,11 @@ During this lesson. students will:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbEPK9HdkXu144cxiDVl6iaX-9O-hpTUO7UZK7-PgAfhm2XBiujMrvglGF3pbR8AaX6VPlm3sEC9Vu/pubembed?start=false&loop=false&delayms=5000" frameborder="0" width="640" height="360" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://docs.google.com/presentation/d/1g5BrI0qslSQZE7QHeAHTbP4kckiYnLLOdJWfeGRLKqI/edit?usp=sharing" target="_blank" class="slides-button">
-Grab the slides!
+~Grab the slides
 </a>
 
 <a href="https://docs.google.com/presentation/REDACTED/edit?usp=sharing" target="_blank" class="slides-button">
-Grab the slides
+~Grab the PDF
 </a>
 
 
