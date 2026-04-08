@@ -5,7 +5,7 @@ permalink: /tutors/
 description: 
 nav: true
 nav_order: 3
-display_categories: [tutors]
+display_categories: []
 horizontal: true
 ---
 
