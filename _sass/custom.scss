@@ -22,74 +22,60 @@ h2 {
   background: #ffc5e0;
   border-radius: 999px;
   position: relative;
+  overflow: hidden;
   transition: all 0.25s ease;
   box-shadow: 
-    0 0 10px rgba(255, 197, 224, 0.5),
-    0 0 20px rgba(255, 197, 224, 0.3);
-  overflow: hidden;
+    0 0 10px rgba(255, 197, 224, 0.7),
+    0 0 20px rgba(255, 197, 224, 0.5);
 }
 
-/* subtle glow on hover */
 .slides-button:hover {
-  transform: translateY(-1px);
+  transform: translateY(-2px);
   box-shadow: 
-    0 0 14px rgba(255, 197, 224, 0.6),
-    0 0 28px rgba(255, 197, 224, 0.4);
+    0 0 15px rgba(255, 197, 224, 0.9),
+    0 0 30px rgba(255, 197, 224, 0.7);
 }
 
-/* gentle shimmer layer */
-.slides-button::before {
+.slides-button:active {
+  transform: scale(0.97);
+}
+
+/* Sparkles */
+.slides-button::after {
   content: "";
   position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    120deg,
-    transparent 20%,
-    rgba(255,255,255,0.35),
-    transparent 80%
-  );
+  left: 50%;
+  top: 50%;
+  width: 6px;
+  height: 6px;
+  background: white;
+  border-radius: 50%;
   opacity: 0;
-  transform: translateX(-100%);
+  transform: translate(-50%, -50%);
+  box-shadow:
+    0 -20px white,
+    15px -15px white,
+    20px 0 white,
+    15px 15px white,
+    0 20px white,
+    -15px 15px white,
+    -20px 0 white,
+    -15px -15px white;
 }
 
-/* shimmer animation */
-.slides-button:hover::before {
-  animation: shimmer 1.2s ease;
+.slides-button:hover::after {
+  animation: sparkle-burst 0.6s ease-out;
 }
 
-@keyframes shimmer {
+@keyframes sparkle-burst {
   0% {
-    opacity: 0;
-    transform: translateX(-100%);
-  }
-  30% {
     opacity: 1;
+    transform: translate(-50%, -50%) scale(0.5);
   }
   100% {
     opacity: 0;
-    transform: translateX(100%);
+    transform: translate(-50%, -50%) scale(1.8);
   }
-}
-
-/* subtle tiny sparkles */
-.slides-button::after {
-  content: "✦ ✧";
-  position: absolute;
-  right: 16px;
-  top: 6px;
-  opacity: 0;
-  font-size: 0.8rem;
-}
-
-/* gentle fade sparkles */
-.slides-button:hover::after {
-  animation: soft-sparkle 1.2s ease;
-}
-
-@keyframes soft-sparkle {
-  0% { opacity: 0; transform: translateY(4px); }
-  40% { opacity: 0.8; }
-  100% { opacity: 0; transform: translateY(-4px); }
 }
 
 .button-row {
