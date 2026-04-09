@@ -26,7 +26,6 @@ h2 {
   box-shadow: 
     0 0 10px rgba(255, 197, 224, 0.7),
     0 0 20px rgba(255, 197, 224, 0.5);
-  overflow: hidden;
 }
 
 /* subtle glow on hover */
@@ -76,7 +75,7 @@ h2 {
   content: "⋆˚✿˖°";
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 30%;
   transform: translate(-50%, -50%) scale(0.4);
   opacity: 0;
   pointer-events: none;
@@ -96,7 +95,6 @@ h2 {
   }
   30% {
     opacity: 1;
-    transform: translate(-50%, -60%) scale(0.9);
   }
   100% {
     opacity: 0;
