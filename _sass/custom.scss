@@ -91,3 +91,11 @@ h2 {
   40% { opacity: 0.8; }
   100% { opacity: 0; transform: translateY(-4px); }
 }
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin: 20px 0;
+  flex-wrap: wrap; /* makes it mobile-friendly */
+}
