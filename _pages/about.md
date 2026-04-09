@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: About me :) 
+subtitle: 
 
 profile:
   align: right
@@ -29,6 +29,6 @@ latest_posts:
 
 Whether you're a student or a tutor, feel free to browse all my English resources here. It's ever a work in progress, so please contact me at <b>hazel@highkeyenglish.com</b> if you have any tips or suggestions. I'm always keen to improve the project where I can.
 
-I have a degree in English and French, and I work in a field which has absolutely nothing to do with either of those things. I have been a private English tutor since 2022, and have also taught English abroad. Making resources has always been a great source of pleasure and I'm glad to be able to share my work with you. 
+I have a degree in English and French. I have been a private English tutor since 2022, and have also taught English abroad. Making resources has always been a great source of pleasure and I'm glad to be able to share my work with you. 
 
-Your support is much appreciated - thanks for passing by.
+Your support is much appreciated. Thanks for passing by!
