@@ -73,26 +73,35 @@ h2 {
 
 /* subtle tiny sparkles */
 .slides-button::after {
-  content: "₊˚.𖥔♡ ݁˖✦˚⊹";
+  content: "⋆˚✿˖°";
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 6px;
-  height: 6px;
+  transform: translate(-50%, -50%) scale(0.4);
   opacity: 0;
-  transform: translate(-50%, -50%);
-  font-size: 0.8rem;
+  pointer-events: none;
+  white-space: nowrap;
+  font-size: 1rem;
+  letter-spacing: 4px;
 }
 
-/* gentle fade sparkles */
 .slides-button:hover::after {
-  animation: soft-sparkle 1.2s ease;
+  animation: sparkle-burst 0.7s ease-out;
 }
 
-@keyframes soft-sparkle {
-  0% { opacity: 0; transform: translateY(4px); }
-  40% { opacity: 0.8; }
-  100% { opacity: 0; transform: translateY(-4px); }
+@keyframes sparkle-burst {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.4);
+  }
+  30% {
+    opacity: 1;
+    transform: translate(-50%, -60%) scale(0.9);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -110%) scale(1.4);
+  }
 }
 
 .button-row {
