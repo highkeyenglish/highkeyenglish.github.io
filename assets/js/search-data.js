@@ -61,7 +61,7 @@ ninja.data = [{
           title: 'Macbeth',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/macbeth/";
+              window.location.href = "/macbeth/";
             },},{
         id: 'social-cv',
         title: 'CV',
