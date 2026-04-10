@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Macbeth' Context ~ Teaching Materials
+title: "'Macbeth' Context ~ Teaching Materials"
 date: 2026-09-04 
 description: 
 tags: gcse english context
