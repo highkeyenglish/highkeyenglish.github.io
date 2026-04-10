@@ -11,9 +11,6 @@ toc:
     sidebar: left
 ---
 
-## 'Macbeth' Context
-This is 
-
 ## Teaching Materials
 These materials can be tailored to students of any ability level. It has been designed for tuition (focusing on individual students) but can be adapted for a classroom setting if needed. 
 
