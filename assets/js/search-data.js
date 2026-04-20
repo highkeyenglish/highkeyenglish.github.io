@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutors/";
           },
-        },{id: "post-masculinity-in-39-macbeth-39-teaching-materials",
+        },{id: "post-39-macbeth-39-context-teaching-materials",
+        
+          title: "&#39;Macbeth&#39; Context ~ Teaching Materials",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/macbeth-context/";
+          
+        },
+      },{id: "post-masculinity-in-39-macbeth-39-teaching-materials",
         
           title: "Masculinity in &#39;Macbeth&#39; ~ Teaching Materials",
         
