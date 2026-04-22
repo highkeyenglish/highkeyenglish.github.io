@@ -9,6 +9,31 @@ display_categories: [tutors]
 horizontal: false
 ---
 
+<div class="explore-grid">
+
+  <a href="/macbeth" class="card large">
+    <img src="/assets/img/macbeth.jpg" alt="Macbeth">
+    <div class="card-text">
+      <h3>Macbeth</h3>
+    </div>
+  </a>
+
+  <a href="/poetry" class="card">
+    <img src="/assets/img/poetry.jpg">
+    <div class="card-text">
+      <h3>Poetry</h3>
+    </div>
+  </a>
+
+  <a href="/a-christmas-carol" class="card tall">
+    <img src="/assets/img/acc">
+    <div class="card-text">
+      <h3>A Christmas Carol</h3>
+    </div>
+  </a>
+
+</div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
