@@ -190,3 +190,7 @@
     color: var(--global-hover-color);
   }
 }
+
+html[data-theme="dark"] .navbar {
+  --global-text-color: #e6e6e6;
+}
